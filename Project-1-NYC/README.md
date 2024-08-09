@@ -1,4 +1,4 @@
-# NYC AirbnbRental Market Analysis
+# NYC Airbnb Rental Market Analysis
 This was the first project I worked on in TripleTen. Its purpose was to test my knowledge and skill learned on spreasheets.
 The goal was to analyze Airbnb listings to help the client find optimal properties to invest in.
 
