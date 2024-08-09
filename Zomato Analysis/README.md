@@ -6,8 +6,8 @@ most revenue.
 The Tableau dashboard and story can be found [here.](https://public.tableau.com/app/profile/zach.dominic/viz/FinalProject_17223362773580/RevenueDashboard)
 
 ### Process
-* Analyzed property data to make strategic targeting and revenue forecasting
-* Filtered and cleaned large datasets to ensure accuracy and reliability for subsequent analysis
-* Created detailed aggregations and pivot tables to identify the most promising types of properties for investment opportunities
-* Performed in-depth calculations to assess current occupancy rates and estimate potential revenue streams based on various scenarios
-* The insights gained from this analysis facilitated data-driven decision-making and contributed to the formulation of effective property investment strategies
+* Filtered and cleaned large datasets to ensure accuracy and reliability 
+* Analyzed restaurants to find the top performers using revenue as the deciding factor
+* Created various forms of graphs to visualize findings
+* Formed dashboards using the created visuals to compile all key findings
+* The insight gained here helps limit the focus on key criteria regarding successful restaurants
